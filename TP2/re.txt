@@ -1,0 +1,87 @@
+Largeur 50
+Hauteur 50
+Archer default 50 10 5 65 20 20 5 13 10
+Archer default 50 10 5 65 20 20 20 -19 10
+Archer default 50 10 5 65 20 20 -22 -22 10
+Archer default 50 10 5 65 20 20 -3 2 10
+Archer default 50 10 5 65 20 20 -9 5 10
+Archer default 50 10 5 65 20 20 -6 -5 10
+Archer default 50 10 5 65 20 20 -11 -14 10
+Archer default 50 10 5 65 20 20 13 -11 10
+Archer default 50 10 5 65 20 20 -25 23 10
+Archer default 50 10 5 65 20 20 -14 -17 10
+Archer default 50 10 5 65 20 20 -16 -10 10
+Paysan default 50 10 5 5 5 20 18 9
+Paysan default 50 10 5 5 5 20 12 0
+Paysan default 50 10 5 5 5 20 -3 -2
+Paysan default 50 10 5 5 5 20 -18 17
+Paysan default 50 10 5 5 5 20 8 -11
+Paysan default 50 10 5 5 5 20 22 -24
+Paysan default 50 10 5 5 5 20 -20 3
+Paysan default 50 10 5 5 5 20 0 -11
+Paysan default 50 10 5 5 5 20 -15 16
+Paysan default 50 10 5 5 5 20 -21 19
+Paysan default 50 10 5 5 5 20 19 4
+Paysan default 50 10 5 5 5 20 11 14
+Paysan default 50 10 5 5 5 20 -6 21
+Paysan default 50 10 5 5 5 20 15 -20
+Paysan default 50 10 5 5 5 20 -3 -22
+Paysan default 50 10 5 5 5 20 -9 -26
+Guerrier default 50 20 5 75 20 1 11 3
+Guerrier default 50 20 5 75 20 1 -13 -13
+Guerrier default 50 20 5 75 20 1 -4 -10
+Guerrier default 50 20 5 75 20 1 -24 14
+Guerrier default 50 20 5 75 20 1 8 20
+Guerrier default 50 20 5 75 20 1 20 17
+Guerrier default 50 20 5 75 20 1 -17 -20
+Guerrier default 50 20 5 75 20 1 -17 1
+Guerrier default 50 20 5 75 20 1 -6 -1
+Guerrier default 50 20 5 75 20 1 -15 -10
+Guerrier default 50 20 5 75 20 1 -7 -17
+Guerrier default 50 20 5 75 20 1 22 4
+Lapin 3 1 1 1 1 -12 -10
+Lapin 3 1 1 1 1 19 17
+Lapin 3 1 1 1 1 -19 18
+Lapin 3 1 1 1 1 -14 9
+Lapin 3 1 1 1 1 -21 3
+Lapin 3 1 1 1 1 -15 7
+Lapin 3 1 1 1 1 8 6
+Lapin 3 1 1 1 1 -1 -26
+Lapin 3 1 1 1 1 6 14
+Lapin 3 1 1 1 1 1 11
+Loup 10 3 3 3 3 13 -4
+Loup 10 3 3 3 3 3 4
+Loup 10 3 3 3 3 4 -2
+Loup 10 3 3 3 3 -2 4
+Loup 10 3 3 3 3 -3 -20
+Loup 10 3 3 3 3 -2 -12
+Loup 10 3 3 3 3 3 0
+Loup 10 3 3 3 3 18 -22
+Loup 10 3 3 3 3 -21 5
+Loup 10 3 3 3 3 -15 12
+Epee 3 7 9
+Epee 3 -14 6
+Epee 3 0 -17
+Epee 3 -2 -25
+Epee 3 -1 15
+Epee 3 -6 -8
+Epee 3 -5 -14
+Epee 3 -11 -9
+Epee 3 3 19
+Epee 3 -7 -24
+Epee 3 -8 -8
+Epee 3 -6 -11
+Epee 3 -11 5
+Epee 3 4 7
+PotionSoin 20 -5 3
+PotionSoin 20 -3 18
+PotionSoin 20 4 0
+PotionSoin 20 -15 9
+PotionSoin 20 -1 21
+PotionSoin 20 -4 10
+PotionSoin 20 19 -24
+PotionSoin 20 -16 18
+PotionSoin 20 -4 11
+PotionSoin 20 10 22
+PotionSoin 20 19 19
+Joueur Guerrier et 125 32 10 72 19 1 -22 11
